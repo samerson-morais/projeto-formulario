@@ -21,7 +21,7 @@ body {
     width: 450px;
     max-width: 100%;
     overflow: hidden;
-    height: 300px;
+    min-height: 300px;
 }
 
 .header {
@@ -34,7 +34,8 @@ body {
     position: relative;
     left: 30px;
     align-items: center;
-    
+    max-width: 500px;
+    min-width: 300px;
     
 }
 
